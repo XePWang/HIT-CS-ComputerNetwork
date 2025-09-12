@@ -10,10 +10,10 @@
 - `*.pcapng`: Wireshark抓包数据文件，包含了对不同协议的抓包结果。
   - `ARP.pcapng`: ARP 协议抓包数据。
   - `dns.pcapng`: DNS 协议抓包数据。
-  - `HTTP1.pcapng`, `HTTP2.pcapng`, `HTTP3.pcapng`: HTTP 协议抓包数据。
+  - `HTTP.pcapng`: HTTP 协议抓包数据。
   - `icmp.pcapng`: ICMP 协议抓包数据。
   - `IP.pcapng`: IP 协议抓包数据。
-  - `TCP1.pcapng`, `TCP2.pcapng`: TCP 协议抓包数据。
+  - `TCP.pcapng`: TCP 协议抓包数据。
   - `udp.pcapng`: UDP 协议抓包数据。
 
 ## 分析的协议
